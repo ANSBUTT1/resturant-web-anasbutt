@@ -6,7 +6,7 @@ const Footer = () => {
       <div className='flex flex-col md:flex-row justify-between p-8 md:px-32 px-5 '>
         <div className='w-full md:w-1/4'>
           <h1 className='font-semibold text-xl pb-4'>
-            FoodieWeb
+          YummyBite
           </h1>
           <p className='text-sm'>
             Include in a symphony of flavors, where each plate is a canvas for
