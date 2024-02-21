@@ -17,9 +17,9 @@ const About = () => {
                     each dish is a testament to our dedication to quality and creativity, inviting you to savor every moment."
                 </p>
                 <p>
-                "At our core, we believe food is a celebration of life and connection.
-                 With each bite, we aim to ignite your palate and cultivate unforgettable experiences, 
-                 leaving you craving more culinary adventures."
+                    "At our core, we believe food is a celebration of life and connection.
+                    With each bite, we aim to ignite your palate and cultivate unforgettable experiences,
+                    leaving you craving more culinary adventures."
                 </p>
                 <div className='flex justify-center lg:justify-start '>
                     <Button title="Learn More" />
