@@ -3,7 +3,7 @@ import React from 'react'
 import background from "../assests/images/heroSectionBackground.jpg"
 import Button from '../layouts/Button'
 
-const Home = () => {
+const HomeHero = () => {
     return (
         <div style={{ backgroundImage: `url(${background})` }} className='bg-cover bg-no-repeat min-h-screen flex flex-row justify-between items-center lg:px-32 px-5  '>
             <div className='w-full lg:w-2/3 space-y-5'>
@@ -24,4 +24,4 @@ const Home = () => {
     )
 }
 
-export default Home
+export default HomeHero;
